@@ -10,7 +10,7 @@
     visibility: hidden;
 }
 .container{
-    width: 1280px;
+    width: 1180px;
     height: auto;
     background-color: grey;
     display: flex;
@@ -19,7 +19,7 @@
     padding: 30px;
 }
 .container2{
-    width: 1280px;
+    width: 1180px;
     background-color: grey;
     display: flex;
     flex-direction: row;
