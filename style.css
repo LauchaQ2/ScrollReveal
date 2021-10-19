@@ -7,7 +7,7 @@
     visibility: hidden;
 }
 .container{
-    width: 100%;
+    width: 1080px;
     height: auto;
     background-color: grey;
     display: flex;
@@ -16,7 +16,7 @@
     padding: 30px;
 }
 .container2{
-    width: 100%;
+    width: 1080px;
     background-color: grey;
     display: flex;
     flex-direction: row;
